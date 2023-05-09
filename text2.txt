@@ -1,0 +1,36 @@
+Dinesh P. Mehta
+Dinesh P. Mehta received the B.Tech. degree in computer science and engineering from
+the Indian Institute of Technology, Bombay, in 1987, the M.S. degree in computer science
+from the University of Minnesota in 1990, and the Ph.D. degree in computer science from
+the University of Florida in 1992. He was on the faculty at the University of Tennessee
+Space Institute from 1992-2000, where he received the Vice President’s Award for Teaching
+Excellence in 1997. He was a Visiting Professor at Intel’s Strategic CAD Labs in 1996 and
+1997. He has been an Associate Professor in the Mathematical and Computer Sciences
+department at the Colorado School of Mines since 2000. Dr. Mehta is a co-author of the
+text Fundamentals of Data Structures in C + +. His publications and research interests are
+in VLSI design automation, parallel computing, and applied algorithms and data structures.
+His data structures-related research has involved the development or application of diverse
+data structures such as directed acyclic word graphs (DAWGs) for strings, corner stitching
+for VLSI layout, the Q-sequence floorplan representation, binary decision trees, Voronoi
+diagrams and TPR trees for indexing moving points. Dr. Mehta is currently an Associate
+Editor of the IEEE Transactions on Circuits and Systems-I.
+Sartaj Sahni
+Sartaj Sahni is a Distinguished Professor and Chair of Computer and Information Sciences
+and Engineering at the University of Florida. He is also a member of the European Academy
+of Sciences, a Fellow of IEEE, ACM, AAAS, and Minnesota Supercomputer Institute, and
+a Distinguished Alumnus of the Indian Institute of Technology, Kanpur. Dr. Sahni is the
+recipient of the 1997 IEEE Computer Society Taylor L. Booth Education Award, the 2003
+IEEE Computer Society W. Wallace McDowell Award and the 2003 ACM Karl Karlstrom
+Outstanding Educator Award. Dr. Sahni received his B.Tech. (Electrical Engineering)
+degree from the Indian Institute of Technology, Kanpur, and the M.S. and Ph.D. degrees
+in Computer Science from Cornell University. Dr. Sahni has published over two hundred
+and fifty research papers and written 15 texts. His research publications are on the design
+and analysis of efficient algorithms, parallel computing, interconnection networks, design
+automation, and medical algorithms.
+Dr. Sahni is a co-editor-in-chief of the Journal of Parallel and Distributed Computing,
+a managing editor of the International Journal of Foundations of Computer Science, and
+a member of the editorial boards of Computer Systems: Science and Engineering, International Journal of High Performance Computing and Networking, International Journal
+of Distributed Sensor Networks and Parallel Processing Letters. He has served as program
+committee chair, general chair, and been a keynote speaker at many conferences. Dr. Sahni
+has served on several NSF and NIH panels and he has been involved as an external evaluator
+of several Computer Science and Engineering departments.

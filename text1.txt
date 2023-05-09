@@ -1,0 +1,43 @@
+In the late sixties, Donald Knuth, winner of the 1974 Turing Award, published his landmark
+book The Art of Computer Programming: Fundamental Algorithms. This book brought together a body of knowledge that defined the data structures area. The term data structure,
+itself, was defined in this book to be A table of data including structural relationships.
+Niklaus Wirth, the inventor of the Pascal language and winner of the 1984 Turing award,
+stated that “Algorithms + Data Structures = Programs”. The importance of algorithms
+and data structures has been recognized by the community and consequently, every undergraduate Computer Science curriculum has classes on data structures and algorithms. Both
+of these related areas have seen tremendous advances in the decades since the appearance
+of the books by Knuth and Wirth. Although there are several advanced and specialized
+texts and handbooks on algorithms (and related data structures), there is, to the best of
+our knowledge, no text or handbook that focuses exclusively on the wide variety of data
+structures that have been reported in the literature. The goal of this handbook is to provide
+a comprehensive survey of data structures of different types that are in existence today.
+To this end, we have subdivided this handbook into seven parts, each of which addresses
+a different facet of data structures. Although
+this material is covered in all standard data structures texts, it was included to make the
+handbook self-contained and in recognition of the fact that there are many practitioners and
+theoretical in nature: they discuss the data structures, their operations and their complexities.
+use of data structures in real programs. Many of the data structures discussed in previous
+parts are very intricate and take some effort to program. The development of data structure
+libraries and visualization tools by skilled programmers are of critical importance in reducing the gap between theory and practice.
+structures.
+of applications is discussed. Some of the data structures discussed here have been invented
+solely in the context of these applications and are not well-known to the broader community. Some of the applications discussed include Internet Routing, Web Search Engines,
+Databases, Data Mining, Scientific Computing, Geographical Information Systems, Computational Geometry, Computational Biology, VLSI Floorplanning and Layout, Computer
+Graphics and Image Processing.
+For data structure and algorithm researchers, we hope that the handbook will suggest
+new ideas for research in data structures and for an appreciation of the application contexts
+in which data structures are deployed. For the practitioner who is devising an algorithm,
+we hope that the handbook will lead to insights in organizing data that make it possible
+to solve the algorithmic problem more cleanly and efficiently. For researchers in specific
+application areas, we hope that they will gain some insight from the ways other areas have
+handled their data structuring problems.
+Although we have attempted to make the handbook as complete as possible, it is impossible to undertake a task of this magnitude without some omissions. For this, we apologize
+in advance and encourage readers to contact us with information about significant data
+© 2005 by Chapman & Hall/CRC
+Part I is a review of introductory material.
+programmers who may not have had a formal education in Computer Science. Parts II, III,
+and IV discuss Priority Queues, Dictionary Structures, and Multidimensional structures,
+respectively. These are all well-known classes of data structures. Part V is a catch-all used
+Part VI addresses mechanisms and tools that have been developed to facilitate the
+Finally, Part VII examines applications of data
+for well-known data structures that eluded easy classification. Parts I through V are largely
+The deployment of many data structures from Parts I through V in a variety
