@@ -28,16 +28,5 @@ new ideas for research in data structures and for an appreciation of the applica
 in which data structures are deployed. For the practitioner who is devising an algorithm,
 we hope that the handbook will lead to insights in organizing data that make it possible
 to solve the algorithmic problem more cleanly and efficiently. For researchers in specific
-application areas, we hope that they will gain some insight from the ways other areas have
-handled their data structuring problems.
-Although we have attempted to make the handbook as complete as possible, it is impossible to undertake a task of this magnitude without some omissions. For this, we apologize
-in advance and encourage readers to contact us with information about significant data
-© 2005 by Chapman & Hall/CRC
-Part I is a review of introductory material.
-programmers who may not have had a formal education in Computer Science. Parts II, III,
-and IV discuss Priority Queues, Dictionary Structures, and Multidimensional structures,
-respectively. These are all well-known classes of data structures. Part V is a catch-all used
-Part VI addresses mechanisms and tools that have been developed to facilitate the
-Finally, Part VII examines applications of data
-for well-known data structures that eluded easy classification. Parts I through V are largely
-The deployment of many data structures from Parts I through V in a variety
+application areas, we hope that they will gain some insight from the ways other areas have   .
+
