@@ -22,8 +22,6 @@ Syntax: main.py [--cases=#]
         3 -- meaningful text and text from random words
         4 -- two texts from random letters
         5 -- two texts from random words
-    Example:
-        --cases=1,3
 """
 
 
@@ -51,18 +49,6 @@ def gen_random_letters(n):
     return text
 
 
-def gen_random_words(n):
-    url = 'http://svnweb.freebsd.org/csrg/share/dict/words?view=co&content-type=text/plain'
-    response = urllib.request.urlopen(url)
-    words = response.read().decode()
-    words = words.splitlines()
-    text = ''
-    while len(text) < n:
-        text += ' ' + random.choice(words)
-    rem = len(text) - n
-    if rem != 0:
-        text = text[:-rem]
-    return text
 
 
 def case1():
